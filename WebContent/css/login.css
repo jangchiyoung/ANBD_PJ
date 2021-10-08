@@ -1,0 +1,33 @@
+.login_page .text_button.login_button {
+    margin-top:30px;
+    background: #079fd7;
+}
+
+.login_page .header_logo {
+    margin-bottom:60px;
+    margin-top:10px;
+}
+
+.login_page .input_section input#id_input {
+    margin-bottom:10px;
+}
+
+.login_page .button_section {
+    margin-top:30px;
+    text-align:center;
+}
+
+.login_page .button_section > span{
+    font-family: NanumGothic;
+    font-size:15px;
+    color:#333333;
+}
+
+.login_page .button_section > span.hor_line{
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.login_page .button_section > span.button:hover{
+    text-decoration: underline;
+}
